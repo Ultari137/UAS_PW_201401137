@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Lobster+Two:wght@400;700&display=swap');
+		@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Lobster+Two&display=swap');
+		.center{
+			margin-left: auto;
+			margin-right: auto;
+			margin-top: 100px;
+		}
+	
+		.box{
+			background-color : rgba(0, 0, 0, 0.5);
+			border-radius : 50px;
+			box-shadow : 0 0 8px 2px white;
+			width : 30%;
+			margin: o auto;
+			margin-top: 60px;
+			padding : 50px;
+		}
+		h1{
+			font-family: 'Lobster', cursive;
+			font-family: 'Lobster Two', cursive;
+		}
+		label, a{
+			font-family: 'Lobster', cursive;
+			font-family: 'Lobster Two', cursive;
+		}
+		label, h1, a {
+			color: #FFFFFF;
+		}
+		h1{
+			font-family: 'Lobster', cursive;
+			font-family: 'Lobster Two', cursive;
+		}
+		table {
+			padding: 10px;
+		}
+		tr,td{
+			padding : 10px;
+		}
+		div{
+			padding : 10px;
+		}
+		input {
+			width: 100%;
+			box-sizing: border-box;
+			padding: 5px ;
+			margin-left: 15px;
+			margin-right: 15px;
+		}
+		button{
+			background-color: rgb(252, 212, 218);
+			color: #000000;
+			border: #FFFFFF;
+			font-family: 'Lobster', cursive;
+			font-family: 'Lobster Two', cursive;
+			font-size: 18px;
+            width: 100%;
+			box-sizing: border-box;
+			padding: 8px;
+            text-align: center;
+			margin-left : 15px;
+			margin-right: 15px;
+			margin-bottom: 40px;
+			margin-top: 30px;
+		}
+		h1{
+			font-size: 32px;
+			text-align: center;
+			margin: 20px;
+		}
+		footer{
+			color:black;
+			text-align: center;
+			font-size: medium;
+			
+		}
+		.carousel .carousel-item
+		{
+			height : 700px;
+		}
+		.carousel img
+		{
+			min-height : 500px;
+			object-fit : cover;
+		}
+		.carousel-caption
+		{
+			color : rgb(221, 75, 124);
+			font-size:xx-large;
+		}
+		.card-text
+		{
+			font-size : 17px;
+		}
+		.navbar-brand
+		{
+			font-family : 'Lobster', cursive;
+			font-family: 'Lobster Two', cursive;
+		}				
+		h1{
+			font-family: 'Lobster', cursive;
+			font-family: 'Lobster Two', cursive;
+		}
+		body{
+			font-size: 20px;
+			font-family: 'Lobster', cursive;
+			background-color: pink;
+		}
+
